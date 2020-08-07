@@ -283,3 +283,47 @@ img[src="img/toureiffel.jpg"] {
 	padding: 0;
 }
 /* zoning 2 */
+
+
+/* a terminer  */
+
+/* page position */
+.centre {
+	height: 200px;
+	width: 200px;
+	background: #6acafc;
+	margin: 0 auto;
+}
+
+/* position absolute */
+.absolute {
+	height: 100px;
+	width: 100px;
+	background:yellow;
+	position: absolute;
+	top: 24%;
+	left: 10%;
+}
+
+/* position relative */
+
+/* quand c'est relatif c'est par rapport au parent, quand c'est absolute c'est par rapport au document SAUF si l'élément est dans un parent relatif */
+.relative {
+	background: #2980b9;
+	width: 400px;
+	height: 400px;
+	/* position relative à la section dans laquelle se trouve cette div, relative par rapport à son parents */
+	position: relative;
+	left: 100px;
+	bottom: 10px;
+}
+
+/* contrairement à la div.absolute plus haut, cet élément à position absolute étant placé dans une div à position relative, cette div est absolut par rapport au document */
+.relative div {
+	background: #fff1a8;
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
