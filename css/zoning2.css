@@ -1,0 +1,82 @@
+body {
+    background-color:lightgray;
+    font-size: 1.8em;
+    color: #fff;
+}
+
+#zoning2 {
+    width: 1200px;
+    margin: auto;
+}
+#zoning2 header {
+    background: hotpink;
+    height: 200px;
+}
+
+#zoning2 aside {
+    background: olive;
+    width: 200px;
+    float: left;
+    height: 400px;
+}
+
+#zoning2 .milieu {
+    width: 800px;
+    background: orange;
+    float: left;
+    height: 400px;
+}
+
+footer {
+    background: grey;
+}
+
+
+
+/* #zoning2 {
+    margin: auto;
+    width: 1200px;
+    background: plum;
+}
+
+h2, h3, p {
+    text-align: center;
+    color: #fff;
+}
+
+header {
+    background: pink;
+    float: left;
+    width: 1200px;
+    height: 150px;
+    
+}
+
+section {
+    float: left;
+    width: 800px;
+    min-height: 500px;
+    background: burlywood;
+}
+
+#left {
+    float: left;
+    width: 200px;
+    min-height: 500px;
+    background: greenyellow;
+}
+ 
+#right {
+    float: right;
+    width: 200px;
+    min-height: 500px;
+    background: greenyellow;
+}
+
+footer {
+    background: pink;
+    float: left;
+    width: 1200px;
+    height: 100px;
+    
+} */

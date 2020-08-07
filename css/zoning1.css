@@ -1,0 +1,35 @@
+body {
+    background-color: pink;
+}
+main {
+    margin: auto;
+    width: 1200px;
+    background: plum;
+}
+
+h2, h3, p {
+    text-align: center;
+}
+
+header {
+    background: yellow;
+    float: left;
+    width: 1200px;
+    height: 150px;
+    
+}
+
+section {
+    float: right;
+    width: 1000px;
+    min-height: 500px;
+    background: gray;
+}
+
+aside {
+    float: left;
+    width: 200px;
+    min-height: 500px;
+    background: greenyellow;
+}
+ 
