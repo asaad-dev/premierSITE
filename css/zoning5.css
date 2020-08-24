@@ -1,46 +1,51 @@
 
 body {
-    background: plum;
+    background: #EEE8AA;
     text-align: center;
     color: #fff;
 }
 
 #zoning5 {
-    background: #fff;
+    background: red;
 	width: 1000px;
 	margin: 0 auto;
 }
 
 #zoning5 header {
-    background :#1e91b4;
+    background :#40A497;
     height: 80px;
 }
 #zoning5 nav {
-    background: purple;
+    background: #9A40A4;
     height: 30px;
 }
+
+#zoning5 nav p{
+	margin: 0;
+}
+
 #zoning5 section {
     background: red;
-    height: 500px;
+    height: 480px;
     margin: 20px;
 
 }
 #zoning5 .a {
-    background: #1e91b4;
+    background: #40A497;
     height: 250px;
     float: left;
     width: 480px;
 }
 
 #zoning5 .b {
-    background: #e7c91e;
+    background: #D69F1C;
     height: 250px;
     float: left;
     width: 480px;
 }
 
 #zoning5 .c {
-    background: #c5d8fc;
+    background: #B1B2D8;
     height: 250px;
     float: left;
     width: 480px;
@@ -54,6 +59,6 @@ body {
 }
 
 #zoning5 footer {
-	background: #1e91b4;
+	background: #40A497;
     height: 60px;
 }
