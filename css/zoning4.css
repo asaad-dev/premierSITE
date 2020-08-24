@@ -1,0 +1,34 @@
+
+/* zoning 4 */
+#zoning4 {
+	background: lightgrey;
+	width: 1200px;
+	margin: auto;
+	text-align: center;
+	color: #fff;
+}
+
+#zoning4 header {
+	background: lightgreen;
+	min-height: 70px;
+	width: 100%;
+}
+
+#zoning4 nav {
+	background: #007bff;
+	min-height: 50px;
+}
+
+#zoning4 nav p{
+	margin: 0;
+}
+
+#zoning4 section {
+	background: pink;
+	height: 500px;
+	margin: 20px;
+}
+#zoning4 footer {
+	background: yellow;
+	min-height: 50px;
+}
