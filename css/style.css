@@ -255,7 +255,7 @@ img[src="img/toureiffel.jpg"] {
 /* la page des zonings */*
 
 #zoning1 {
-    background: grey;
+    background: #ffd6d6;
     width: 800px;
     text-align: center;
     margin: auto;
@@ -283,9 +283,157 @@ img[src="img/toureiffel.jpg"] {
 	padding: 0;
 }
 /* zoning 2 */
+#zoning2 {
+	background: #ffd6d6;
+	width: 800px;
+	margin: auto;
+	text-align: center;
+	color: #fff;
+}
 
+#zoning2 header {
+	background: purple;
+	height: 70px;
+}
 
-/* a terminer  */
+#zoning2 aside {
+	width: 25%;
+	height: 500px;
+	float: left;
+	color: red;
+}
+
+#zoning2 .milieu {
+	width: 50%;
+	background: #f7f39a;
+	height: 500px;
+	float: left;
+	margin: 0;
+}
+
+/* zoning 3 */
+#zoning3 {
+	background: #ffd6d6;
+	width: 800px;
+	margin: auto;
+	text-align: center;
+}
+#zoning3 section {
+	width: 50%;
+	height: 500px;
+	background: orchid;
+	float: left;
+	color: #fff;
+	margin: 0;
+	padding: 0;
+}
+
+#zoning3 section.orange {
+	background: orange;
+}
+
+#zoning3 footer {
+	height: 70px;
+	float: left;
+	width: 100%;
+	background: #D8EBB5;
+	margin: 0;
+}
+
+/* zoning 4 */
+#zoning4 {
+	background: lightgrey;
+	width: 800px;
+	margin: auto;
+	text-align: center;
+	color: #fff;
+}
+
+#zoning4 header {
+	background: lightgreen;
+	min-height: 50px;
+}
+
+#zoning4 nav {
+	background: #007bff;
+	min-height: 50px;
+	border: none;
+}
+
+#zoning4 nav p{
+	margin: 0;
+}
+
+#zoning4 section {
+	background: pink;
+	height: 500px;
+	margin: 20px;
+}
+#zoning4 footer {
+	background: yellow;
+	height: 50px;
+}
+/* fin de zoning 4 */
+
+#zoning5 {
+	width: 800px;
+	margin: auto;
+	text-align: center;
+	color: #fff;
+}
+
+#zoning5 header {
+    background :#40A497;
+    height: 80px;
+}
+
+#zoning5 nav {
+    background: #9A40A4;
+	height: 40px;
+	border: none;
+}
+
+#zoning5 section {
+    background: red;
+	height: 540px;
+	margin: 0;
+}
+
+#zoning5 .a {
+    background: #40A497;
+    height: 250px;
+    float: left;
+    width: 380px;
+}
+
+#zoning5 .b {
+    background: #D69F1C;
+    height: 250px;
+    float: left;
+    width: 380px;
+}
+
+#zoning5 .c {
+    background: #B1B2D8;
+    height: 250px;
+    float: left;
+    width: 380px;
+}
+
+#zoning5 .d {
+    background: #007bff;
+    height: 250px;
+    float: left;
+    width: 380px;
+}
+
+#zoning5 footer {
+	background: #40A497;
+	height: 60px;
+	margin: 0;
+}
+/* fin de zoning 5 */
+
 
 /* page position */
 .centre {
