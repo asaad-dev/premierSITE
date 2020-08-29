@@ -434,6 +434,18 @@ img[src="img/toureiffel.jpg"] {
 }
 /* fin de zoning 5 */
 
+#zoning6 {
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+	color: #fff;
+}
+#zoning6 header {
+	background: lightgrey;
+	width: 30px;
+	margin: 30px;
+}
+
 
 /* page position */
 .centre {
